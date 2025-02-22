@@ -1,4 +1,8 @@
 [
+  {    
+    "repo": "https://github.com/spinagon/ComfyUI-seamless-tiling",
+     "commit": "c06e4e7"
+  },
   {
     "repo": "https://github.com/cubiq/ComfyUI_IPAdapter_plus",
     "commit": "b188a6c"
