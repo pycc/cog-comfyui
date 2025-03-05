@@ -1,5 +1,5 @@
 # Live model
-model: pycc/comfyui
+model: pycc/comfyuiA
 
 # A private model to run the test against before pushing
 #test_model: pycc/comfyui-test
