@@ -2,7 +2,7 @@
 model: pycc/comfyui-live
 
 # A private model to run the test against before pushing
-test_model: pycc/comfyui-test
+test_model: pycc/comfyui-test2
 test_hardware: gpu-l40s
 
 # Tests
